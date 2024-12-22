@@ -6,7 +6,9 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
 FlipCoin f=new FlipCoin();
-f.flipCoin();
+//f.flipCoin();
+LeapYear L=new LeapYear();
+L.leapYear();
 
     }
 }
