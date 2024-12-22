@@ -8,7 +8,9 @@ public class Main {
 FlipCoin f=new FlipCoin();
 //f.flipCoin();
 LeapYear L=new LeapYear();
-L.leapYear();
+//L.leapYear();
+        PowerOf2 p=new PowerOf2();
+        p.powerOf2();
 
     }
 }
